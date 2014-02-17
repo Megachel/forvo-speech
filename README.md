@@ -1,13 +1,10 @@
-forvo-speech
-============
-
 Generate text to speech, using forvo.com service
-
 
 How to run
 ============
-1) Go to http://api.forvo.com/plans-and-pricing/free/
-2) Register, get API key http://api.forvo.com/account/
-3) Put API key to source code
-4) Change $text variable
-5) Have fun!
+1. Go to http://api.forvo.com/plans-and-pricing/free/
+2. Register, get API key http://api.forvo.com/account/
+3. Put API key to source code
+4. Change $text variable
+5. Make sure script have permissions to writing cache directory ('words' by default)
+6. Have fun!
